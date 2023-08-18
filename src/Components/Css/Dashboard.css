@@ -1,0 +1,54 @@
+#dashnav{ /*Dashboard nav */
+    height: 67px;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    padding-top: 10px;
+    background-color: black;
+    
+    
+}
+
+#logout{  /*Logout button */
+    float: right;
+    outline: none;
+    cursor: pointer;
+    color: white;
+    background-color: transparent;
+    border: none;
+    padding-right: 20px;
+    font-size: 34px;
+
+}
+
+#navbutton{
+    cursor: pointer;
+    outline: none;
+    border: none;
+    background-color: transparent;
+    font-size: 34px;
+    padding-left: 20px;
+    float: left;
+}
+
+
+.cancel-button{
+    width: 20%;
+    background: rgb(255, 0, 0);
+    border: 3px solid #ffffff;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    outline: none;
+    margin-top: 20px ;
+    padding:10px;
+    border: none;
+   
+}
+
+.cancel-button:focus{
+    outline: none;
+    border: none;
+}

@@ -1,0 +1,9 @@
+*:focus {
+    outline: none;
+}
+
+.Name, .Age , .Sex, .Berth{
+    outline: none !important;
+    border: none !important;
+    
+}

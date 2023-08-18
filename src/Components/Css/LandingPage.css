@@ -1,0 +1,28 @@
+
+#landingImage{
+    background-image: url("../Images/Landing.jpg");
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  color: white;
+
+}
+
+
+
+#landingImage > h1{
+
+    color: rgb(252, 252, 27);
+    font-weight: bold;
+    font-size: 130px;
+    padding-top: 20%;
+    padding-left: 2%;
+
+
+}
+
+
+
